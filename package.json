@@ -1,0 +1,25 @@
+{
+  "name": "candy",
+  "version": "1.0.0",
+  "description": "A library for J's writing in t#",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BC128/Candy.git"
+  },
+  "keywords": [
+    "libary"
+  ],
+  "author": "BC128",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BC128/Candy/issues"
+  },
+  "homepage": "https://github.com/BC128/Candy#readme",
+  "dependencies": {
+    "@types/node": "^18.11.11"
+  }
+}
