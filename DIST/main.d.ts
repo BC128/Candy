@@ -1,7 +1,2 @@
-declare const t: {
-    y: {
-        g(): number;
-    };
-    o(): number;
-};
+export {};
 //# sourceMappingURL=main.d.ts.map
