@@ -5,7 +5,8 @@
   "main": "main.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node ./DIST"
   },
   "repository": {
     "type": "git",
@@ -22,5 +23,8 @@
   "homepage": "https://github.com/BC128/Candy#readme",
   "dependencies": {
     "@types/node": "^18.11.11"
+  },
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.18.6"
   }
 }

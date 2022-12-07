@@ -1,2 +1,11 @@
-# Candy
-A library for J's writing in t#
+# Candy 
+
+> Next Generation SSR tool
+
+- 💡 FAST
+- ⚡️ Lightning Fast HMR
+- 🛠️ Rich Features
+- 📦 Optimized Build
+- 🔩 Universal Plugin Interface
+- 🔑 Fully Typed APIs
+d
