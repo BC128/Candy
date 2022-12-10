@@ -78,6 +78,8 @@ export const node_IMPORT = {
   util,
   worker_threads,
   zlib,
-  punycode
+  punycode,
+  console,
+  Date
 };
 
